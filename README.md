@@ -86,5 +86,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fifernandez&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fifernandez&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fifernandez&layout=compact&theme=vision-friendly-dark&langs_count=8" width="600"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fifernandez&show_icons=true&theme=dracula" width="600"/>
 </div>
